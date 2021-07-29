@@ -1,0 +1,5 @@
+Credentials cache: API:4F250E89-7310-4138-B052-059F1F4C6C62
+        Principal: aucousin@42LYON.FR
+
+  Issued                Expires               Principal
+Jul  5 10:41:08 2021  Jul  6 10:41:08 2021  krbtgt/42LYON.FR@42LYON.FR
